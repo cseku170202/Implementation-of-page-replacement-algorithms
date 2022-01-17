@@ -11,11 +11,11 @@ This integrated program includes 4 page replacement algorithms.
 Run the program as follows:
 
 Input:
-No. of pages,
-Page sequence,
-No. of page frames.
+No. of pages
+Page sequence
+No. of page frames
 
-Output:
-Graphical or visual representation of physical logical address for each replacement,
-No. of page faults,
+Output
+Graphical or visual representation of physical logical address for each replacement
+No. of page faults
                                      
